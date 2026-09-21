@@ -1,0 +1,18 @@
+# Build output
+build/
+*.o
+*.elf
+*.map
+*.nro
+
+# Editor
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
